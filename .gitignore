@@ -1,0 +1,5 @@
+build/
+.dep/
+__pycache__/
+*.o
+q20test
